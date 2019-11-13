@@ -4,6 +4,8 @@
 
 A set of tools to ease the creation of traffic mirror sessions, increase automation and facilitate maintenance.
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 ## Tools
 
 Currently available tools:
@@ -23,6 +25,8 @@ For detailed instructions on how to use each tool please visit the repository of
 The general availability of traffic mirror sessions in AWS is a great step towards traffic analyses. We did find, however, that using those features at scale could be hard to maintain and prone to error. The tools available here are our attempt at addressing these concerns.
 
 # Feedback
-Found this interesting? Let us [know](https://twitter.com/3CORESec)! 
+Found this interesting? Let us [know](https://twitter.com/3CORESec)!
+
+[![Twitter](https://img.shields.io/twitter/follow/3CORESec.svg?style=social&label=Follow)](https://twitter.com/3CORESec)
 
 If you run into a bug, question or have a feature request, please open an issue in the specific project page.
