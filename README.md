@@ -13,7 +13,7 @@ Currently available tools:
 
 * [3CS AWS AutoMirror](https://github.com/3CORESec/AWS-AutoMirror) - Automatic session mirror creation
 * [3CS AWS Config Mirror Session](https://github.com/3CORESec/AWS-Config-MirrorSession) - Traffic mirror session compliance
-* New project soon!
+* [3CS AWS TMS Remover](https://github.com/3CORESec/AWS-TMS-Remover) - Automatic removal of AWS VPC Traffic Mirror Sessions
 
 Even though these are separate projects they have been developed to complement each other. You're free to use them together or separately. 
 
